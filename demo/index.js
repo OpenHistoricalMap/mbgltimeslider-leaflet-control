@@ -7,7 +7,7 @@ var STARTING_DATE = 1920;
 var DATE_RANGE = [ -4000, (new Date()).getFullYear() - 1 ];
 
 // URL of a map style suited to OpenistoricalMap's data layers
-var MAP_STYLE_URL = 'https://open-historical-map-labs.github.io/map-styles/ohm_timeslider_tessera/ohm.style.json';
+var MAP_STYLE_URL = 'https://open-historical-map-labs.github.io/map-styles/ohm_timeslider_tegola/tegola-ohm.json';
 
 // when the timeslider comes up, let's keep a reference to it so we can fetch/set it externally
 var MAP, ohmlayer, timeslider;
