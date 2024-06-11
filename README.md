@@ -1,5 +1,10 @@
 # Open Historical Map: Time Slider Control for Mapbox GL Leaflet
 
+>[!WARNING]
+> This repository was archived on 11 June 2024 because this plugin has not been maintained for several years.
+>
+> Perhaps [OpenHistoricalMap/leaflet-ohm-timeslider-v2](https://github.com/OpenHistoricalMap/leaflet-ohm-timeslider-v2/) will suit your needs?
+
 This Leaflet plugin provides a `L.Control.MBGLTimeSlider` interface, to the TimeSlider control for Mapbox GL.
 
 This code was split out from the GH Pages branch of https://github.com/Open-Historical-Map-Labs/openhistoricaltiles.
